@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: RideShare
+owner: ridesharefrance
+package: .
+scaling:
+  mode: single_concurrency
